@@ -1,0 +1,6 @@
+.vscode/
+obj/
+bot
+bot.log
+http.log
+config.json
